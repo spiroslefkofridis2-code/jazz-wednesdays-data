@@ -1,7 +1,6 @@
 [
   {
     "id": "mr-peacock",
-    "program": [ { "day": "Τετάρτη", "time": "21:00", "title": "Δοκιμή προγράμματος (demo)" } ],
     "categoryId": "live_sessions",
     "name": "Mr Peacock",
     "description": "Cozy jazz bar in the heart of Chalandri with an intimate stage and a carefully curated cocktail menu. Live jazz every Wednesday.",
