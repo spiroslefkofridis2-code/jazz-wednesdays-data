@@ -9,7 +9,16 @@
     "phone": "+30 210 681 4422",
     "latitude": 38.0222931,
     "longitude": 23.7990683,
-    "isLive": true
+    "isLive": true,
+    "photo": "https://raw.githubusercontent.com/spiroslefkofridis2-code/jazz-wednesdays-data/main/photos/piano-night.jpg",
+    "program": [
+      {
+        "day": "Τετάρτη",
+        "time": "21:00",
+        "title": "Βραδιά πιάνου — jazz standards",
+        "photo": "https://raw.githubusercontent.com/spiroslefkofridis2-code/jazz-wednesdays-data/main/photos/piano-night.jpg"
+      }
+    ]
   },
   {
     "id": "vineria-cava-solera",
@@ -21,7 +30,16 @@
     "phone": "",
     "latitude": 38.0193338,
     "longitude": 23.7973138,
-    "isLive": false
+    "isLive": false,
+    "photo": "https://raw.githubusercontent.com/spiroslefkofridis2-code/jazz-wednesdays-data/main/photos/duo-strings.jpg",
+    "program": [
+      {
+        "day": "Τετάρτη",
+        "time": "21:30",
+        "title": "Ντουέτο εγχόρδων — βιολί & κιθάρα",
+        "photo": "https://raw.githubusercontent.com/spiroslefkofridis2-code/jazz-wednesdays-data/main/photos/duo-strings.jpg"
+      }
+    ]
   },
   {
     "id": "white-monkey",
@@ -33,7 +51,16 @@
     "phone": "",
     "latitude": 38.0223944,
     "longitude": 23.7982248,
-    "isLive": false
+    "isLive": false,
+    "photo": "https://raw.githubusercontent.com/spiroslefkofridis2-code/jazz-wednesdays-data/main/photos/trio-night.jpg",
+    "program": [
+      {
+        "day": "Παρασκευή",
+        "time": "22:00",
+        "title": "Jazz trio — βραδιά αυτοσχεδιασμού",
+        "photo": "https://raw.githubusercontent.com/spiroslefkofridis2-code/jazz-wednesdays-data/main/photos/trio-night.jpg"
+      }
+    ]
   },
   {
     "id": "soureal-cantina-cultura",
@@ -45,7 +72,16 @@
     "phone": "",
     "latitude": 38.0205192,
     "longitude": 23.7977485,
-    "isLive": false
+    "isLive": false,
+    "photo": "https://raw.githubusercontent.com/spiroslefkofridis2-code/jazz-wednesdays-data/main/photos/open-air.jpg",
+    "program": [
+      {
+        "day": "Σάββατο",
+        "time": "21:00",
+        "title": "Ανοιχτή σκηνή — jam session",
+        "photo": "https://raw.githubusercontent.com/spiroslefkofridis2-code/jazz-wednesdays-data/main/photos/open-air.jpg"
+      }
+    ]
   },
   {
     "id": "thiasos-cafe-bar",
@@ -57,7 +93,16 @@
     "phone": "",
     "latitude": 38.0221007,
     "longitude": 23.801933,
-    "isLive": false
+    "isLive": false,
+    "photo": "https://raw.githubusercontent.com/spiroslefkofridis2-code/jazz-wednesdays-data/main/photos/audience.jpg",
+    "program": [
+      {
+        "day": "Πέμπτη",
+        "time": "21:00",
+        "title": "DJ set — soul, funk & rare grooves",
+        "photo": "https://raw.githubusercontent.com/spiroslefkofridis2-code/jazz-wednesdays-data/main/photos/audience.jpg"
+      }
+    ]
   },
   {
     "id": "mockingbirds-bar",
@@ -69,7 +114,16 @@
     "phone": "",
     "latitude": 38.0199404,
     "longitude": 23.8004889,
-    "isLive": false
+    "isLive": false,
+    "photo": "https://raw.githubusercontent.com/spiroslefkofridis2-code/jazz-wednesdays-data/main/photos/venue-lights.jpg",
+    "program": [
+      {
+        "day": "Σάββατο",
+        "time": "22:00",
+        "title": "DJ set — swing & electro jazz",
+        "photo": "https://raw.githubusercontent.com/spiroslefkofridis2-code/jazz-wednesdays-data/main/photos/venue-lights.jpg"
+      }
+    ]
   },
   {
     "id": "ginger",
@@ -105,7 +159,16 @@
     "phone": "",
     "latitude": 38.0216303,
     "longitude": 23.8005553,
-    "isLive": false
+    "isLive": false,
+    "photo": "https://raw.githubusercontent.com/spiroslefkofridis2-code/jazz-wednesdays-data/main/photos/jazz-art.jpg",
+    "program": [
+      {
+        "day": "Κυριακή",
+        "time": "20:00",
+        "title": "Jazz ακρόαση — κλασικά της Blue Note",
+        "photo": "https://raw.githubusercontent.com/spiroslefkofridis2-code/jazz-wednesdays-data/main/photos/jazz-art.jpg"
+      }
+    ]
   },
   {
     "id": "bebidas-all-day-bar",
@@ -211,7 +274,7 @@
     "address": "Γρηγορίου Γυφτοπούλου 2 & Ανδρέα Γκίνη, 15233",
     "hours": "",
     "phone": "",
-    "latitude": 38.0210,
+    "latitude": 38.021,
     "longitude": 23.7997,
     "isLive": false
   },
@@ -380,7 +443,7 @@
     "hours": "",
     "phone": "",
     "latitude": 38.0179751,
-    "longitude": 23.7958720,
+    "longitude": 23.795872,
     "isLive": false
   },
   {
@@ -487,7 +550,7 @@
     "address": "Μεθώνης 1, Χαλάνδρι",
     "hours": "",
     "phone": "",
-    "latitude": 38.010,
+    "latitude": 38.01,
     "longitude": 23.784,
     "isLive": false
   },
